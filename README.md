@@ -1,9 +1,6 @@
 # Hospital-Management-System-SQL
 SQL-based Hospital Management System with real-world queries
 
-
-# Hospital Management System (SQL Project)
-
 ## 📌 Project Overview
 This project is a Hospital Management System designed using SQL to manage
 patients, physicians, departments, procedures, and hospital rooms.
