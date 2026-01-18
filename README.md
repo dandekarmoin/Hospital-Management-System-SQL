@@ -34,6 +34,3 @@ patients, physicians, departments, procedures, and hospital rooms.
 ## 🎯 Use Case
 This project simulates a real-world hospital database system and demonstrates
 strong SQL querying and database design skills.
-
-## 👨‍💻 Author
-Moin Dandekar
